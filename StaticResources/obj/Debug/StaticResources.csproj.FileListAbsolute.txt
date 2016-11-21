@@ -1,0 +1,10 @@
+E:\DoanWeb\DoanMVC\StaticResources\bin\Debug\StaticResources.dll
+E:\DoanWeb\DoanMVC\StaticResources\bin\Debug\StaticResources.pdb
+E:\DoanWeb\DoanMVC\StaticResources\bin\Debug\en\StaticResources.resources.dll
+E:\DoanWeb\DoanMVC\StaticResources\obj\Debug\StaticResources.csprojResolveAssemblyReference.cache
+E:\DoanWeb\DoanMVC\StaticResources\obj\Debug\StaticResources.Resources.resources
+E:\DoanWeb\DoanMVC\StaticResources\obj\Debug\StaticResources.Resources.en.resources
+E:\DoanWeb\DoanMVC\StaticResources\obj\Debug\StaticResources.csproj.GenerateResource.Cache
+E:\DoanWeb\DoanMVC\StaticResources\obj\Debug\en\StaticResources.resources.dll
+E:\DoanWeb\DoanMVC\StaticResources\obj\Debug\StaticResources.dll
+E:\DoanWeb\DoanMVC\StaticResources\obj\Debug\StaticResources.pdb

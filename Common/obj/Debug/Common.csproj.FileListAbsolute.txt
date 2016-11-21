@@ -1,0 +1,5 @@
+E:\DoanWeb\DoanMVC\Common\bin\Debug\Common.dll
+E:\DoanWeb\DoanMVC\Common\bin\Debug\Common.pdb
+E:\DoanWeb\DoanMVC\Common\obj\Debug\Common.dll
+E:\DoanWeb\DoanMVC\Common\obj\Debug\Common.pdb
+E:\DoanWeb\DoanMVC\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
